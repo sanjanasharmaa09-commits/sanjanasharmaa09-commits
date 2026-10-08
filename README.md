@@ -78,7 +78,7 @@ A web application that recognizes human facial expressions from images using a *
 
 - **Tech Stack:** Python, TensorFlow/Keras, OpenCV, Flask
 - **Highlights:** Image preprocessing, CNN model training, face detection, web interface for predictions
-- 🔗 **Repository:** [View Project](https://github.com/sanjanasharmaa09-commits/YOUR_REPO_NAME)
+- 🔗 **Repository:** [View Project](https://github.com/sanjanasharmaa09-commits/https:/superstore-sales-intelligence)
 
 ---
 
