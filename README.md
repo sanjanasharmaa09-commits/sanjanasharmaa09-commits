@@ -13,7 +13,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am Sanjana Sharma, a **Bachelor of Computer Applications (BCA)** student specializing in **Artificial Intelligence & Data Science** at the **School of Computing, Graphic Era Hill University, Bhimtal**.
 
@@ -31,7 +31,7 @@ I enjoy working across the complete data workflow, from cleaning and querying da
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -69,27 +69,27 @@ I enjoy working across the complete data workflow, from cleaning and querying da
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 😀 Facial Expression Recognition Web Application
+###  Facial Expression Recognition Web Application
 *BCA Final Year Project*
 
 A web application that recognizes human facial expressions from images using a **Convolutional Neural Network (CNN)** trained on the **FER2013** dataset.
 
 - **Tech Stack:** Python, TensorFlow/Keras, OpenCV, Flask
 - **Highlights:** Image preprocessing, CNN model training, face detection, web interface for predictions
-- 🔗 **Repository:** [View Project](https://github.com/sanjanasharmaa09-commits/https:/superstore-sales-intelligence)
+-  **Repository:** [View Project](https://github.com/sanjanasharmaa09-commits/https:/superstore-sales-intelligence)
 
 ---
 
-### 📊 E-Commerce Customer Churn & Retention Intelligence System
+###  E-Commerce Customer Churn & Retention Intelligence System
 *End-to-end Data Science project (in progress)*
 
 A complete data science workflow to identify customers likely to churn and support retention strategy decisions.
 
 - **Tech Stack:** Python, Pandas, NumPy, SQL, SciPy, Scikit-learn, SHAP, Power BI, Streamlit
 - **Scope:** Data quality checks, SQL analysis, churn definition, EDA, statistical testing, feature engineering, model building, explainability, customer segmentation, dashboard and app
-- 🔗 **Repository:** [View Project](https://github.com/sanjanasharmaa09-commits/YOUR_REPO_NAME)
+-  **Repository:** [View Project](https://github.com/sanjanasharmaa09-commits/YOUR_REPO_NAME)
 
 ---
 
@@ -99,11 +99,11 @@ A complete data science workflow to identify customers likely to churn and suppo
 An interactive dashboard that tracks sales KPIs and trends to support business decision-making.
 
 - **Tech Stack:** Power BI, Data Analytics
-- 🔗 **Repository:** [View Project](https://github.com/sanjanasharmaa09-commits/YOUR_REPO_NAME)
+-  **Repository:** [View Project](https://github.com/sanjanasharmaa09-commits/YOUR_REPO_NAME)
 
 ---
 
-## 🎯 Career Goals
+##  Career Goals
 
 - Secure a **Data Science / Data Analytics internship** and contribute to real-world, data-driven projects
 - Build a strong portfolio of end-to-end projects with clear business impact
@@ -111,7 +111,7 @@ An interactive dashboard that tracks sales KPIs and trends to support business d
 
 ---
 
-## 🌱 Currently Focusing On
+##  Currently Focusing On
 
 - 🔹 Completing my Churn & Retention Intelligence System portfolio project
 - 🔹 Strengthening SQL, statistics and machine learning fundamentals
@@ -119,7 +119,7 @@ An interactive dashboard that tracks sales KPIs and trends to support business d
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -132,12 +132,12 @@ An interactive dashboard that tracks sales KPIs and trends to support business d
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 I am open to internships, collaborations and learning opportunities in **Data Science, Data Analytics and Machine Learning**.
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sanjanasharma25)
-- 📧 **Email:** sanjana.sharmaa7654@gmail.com
+-  **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sanjanasharma25)
+- **Email:** sanjana.sharmaa7654@gmail.com
 
 <div align="center">
 
