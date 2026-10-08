@@ -136,8 +136,8 @@ An interactive dashboard that tracks sales KPIs and trends to support business d
 
 I am open to internships, collaborations and learning opportunities in **Data Science, Data Analytics and Machine Learning**.
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 📧 **Email:** your-email@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sanjanasharma25)
+- 📧 **Email:** sanjana.sharmaa7654@gmail.com
 
 <div align="center">
 
