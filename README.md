@@ -21,7 +21,7 @@ I enjoy working across the complete data workflow, from cleaning and querying da
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Specialization |
 |---|---|---|
